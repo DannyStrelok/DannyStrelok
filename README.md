@@ -61,12 +61,10 @@
 
 ---
 
-### 📊 GitHub Stats
+---
+### 📈 Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dannystrelok&theme=github-compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannystrelok&show_icons=true&theme=transparent" />
-</p>
+### 📊 Metrics
+![Metrics](https://github.com/dannystrelok/dannystrelok/blob/main/github-metrics.svg)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannystrelok&theme=transparent" />
-</p>
